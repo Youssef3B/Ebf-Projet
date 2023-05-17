@@ -51,7 +51,7 @@ header nav ul li a{
     display: grid;
     text-align: center !important;
     align-items: center;
-    background: url(/images/hero-section.jpg);
+    background: url(images/hero-section.jpg);
     background-size: cover;
   }
   
